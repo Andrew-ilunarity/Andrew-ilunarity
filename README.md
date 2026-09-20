@@ -1,13 +1,16 @@
-<!-- 1. ЗЕЛЕНИЙ АНІМОВАНИЙ ASCII-БАНЕР ТЕРМІНАЛУ -->
+<!-- 1. ЗЕЛЕНИЙ ASCII-БАНЕР СЛАНТ (LINUX TERMINAL STYLE) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=11&pause=100000&color=00FF66&center=true&vCenter=true&width=700&lines=%20___%20____%20_%20___%20_%20_%20___%20____%20I%20_____%20__%20__;%20%2F%20_%2F%2F%20%7C%20%2F%20%2F%20%2F%20%2F%20_%2F%20%2F%20%7C%20%2F%20%5C%20%2F%20__%20%5C%2F%20%2F_%20__%2F%5C%20%5C%2F%20%2F;%2F%20%2F%20%2F%20%7C%20%7C%2F%20%2F%20%2F_%2F%20%2F%20%2F%20%7C%20%2F%20_%20%5C%2F%20%2F_%2F%20%2F%20%2F%20%2F%20%2F%20%5C%20%2F;_%2F%20%2F_%2F%20%7C__%2F____%2F___%2F_%2F%20%7C__%2F%20___%20%2F%20_%20_%2F_%2F%20%2F%20%2F%20%2F%20%2F;%2F___%2F___%2F%7C_%2F____%2F___%2F_%2F%20%7C_|_%2F%20%7C_|_%2F%20%7C_|_%2F%20%2F_%2F%20%2F_%2F" alt="ILUNARITY Slant ASCII Banner" />
+<pre style="color: #00FF66; background-color: transparent; font-weight: bold; line-height: 1.2;">
+    ____ _   ____  _   _   ___    ____  I _____ __  __
+   /  _// | / / / / / / | / / \  / __ \/ /_  __/\ \/ /
+  / / / /| |/ / /_/ / /  |/ / _ \/ /_/ / / / /    \  / 
+_/ /_/ /_|  /____/_/ /|  / ___ / _, _/_/  / /     / /  
+/___/___/|_/____/___/_/ |_/_/ |_/_/ |_/_/  /_/     /_/   
+</pre>
 
-  <br />
-
-  <!-- Зелений анімований статус терміналу -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=550&lines=%3E_ Analytics+Engineer;%3E_ Data+Analyst+%26+Automation+Specialist;%3E_ Python+(Polars)+%26+SQL;%3E_ End-to-End+Data+Pipelines" alt="Typing SVG" /></a>
+<!-- Швидкий анімований статус зеленого кольору (Typewriter effect) -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=500&color=00FF66&center=true&vCenter=true&width=500&lines=Analytics+Engineer;Data+Analyst+%26+Automation+Specialist;Python+(Polars)+%26+SQL;End-to-End+Data+Pipelines" alt="Typing SVG" /></a>
 </div>
-
 ---
 
 ### 👨‍💻 About Me
