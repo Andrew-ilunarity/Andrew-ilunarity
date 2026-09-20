@@ -1,15 +1,40 @@
-<!-- 1. ЗЕЛЕНИЙ ASCII-БАНЕР СЛАНТ (LINUX TERMINAL STYLE) -->
+<!-- 1. ДИНАМІЧНИЙ ЗЕЛЕНИЙ ASCII-БАНЕР (SVG ANIMATION) -->
 <div align="center">
-<pre style="color: #00FF66; background-color: transparent; font-weight: bold; line-height: 1.2;">
-    ____ _   ____  _   _   ___    ____  I _____ __  __
-   /  _// | / / / / / / | / / \  / __ \/ /_  __/\ \/ /
-  / / / /| |/ / /_/ / /  |/ / _ \/ /_/ / / / /    \  / 
-_/ /_/ /_|  /____/_/ /|  / ___ / _, _/_/  / /     / /  
-/___/___/|_/____/___/_/ |_/_/ |_/_/ |_/_/  /_/     /_/   
-</pre>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 130" width="100%" max-width="750px">
+    <style>
+      .ascii-text {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 13px;
+        font-weight: bold;
+        fill: #00FF66;
+        white-space: pre;
+        letter-spacing: 2px;
+        opacity: 0;
+        animation: fadeIn 0.4s forwards;
+      }
+      .line1 { animation-delay: 0.1s; }
+      .line2 { animation-delay: 0.25s; }
+      .line3 { animation-delay: 0.4s; }
+      .line4 { animation-delay: 0.55s; }
+      .line5 { animation-delay: 0.7s; }
 
-<!-- Швидкий анімований статус зеленого кольору (Typewriter effect) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=500&color=00FF66&center=true&vCenter=true&width=500&lines=Analytics+Engineer;Data+Analyst+%26+Automation+Specialist;Python+(Polars)+%26+SQL;End-to-End+Data+Pipelines" alt="Typing SVG" /></a>
+      @keyframes fadeIn {
+        to { opacity: 1; }
+      }
+    </style>
+    <text x="10" y="20" class="ascii-text line1">    ____ _   ____  _   _   ___    ____  I _____ __  __</text>
+    <text x="10" y="40" class="ascii-text line2">   /  _// | / / / / / / | / / \  / __ \/ /_  __/\ \/ /</text>
+    <text x="10" y="60" class="ascii-text line3">  / / / /| |/ / /_/ / /  |/ / _ \/ /_/ / / / /    \  /</text>
+    <text x="10" y="80" class="ascii-text line4">_/ /_/ /_|  /____/_/ /|  / ___ / _, _/_/  / /     / / </text>
+    <text x="10" y="100" class="ascii-text line5">/___/___/|_/____/___/_/ |_/_/ |_/_/ |_/_/  /_/     /_/  </text>
+  </svg>
+
+  <br/>
+
+  <!-- Швидкий анімований статус (Typewriter effect) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=500&color=00FF66&center=true&vCenter=true&width=500&lines=Analytics+Engineer;Data+Analyst+%26+Automation+Specialist;Python+(Polars)+%26+SQL;End-to-End+Data+Pipelines" alt="Typing SVG" />
+  </a>
 </div>
 
 ### 👨‍💻 About Me
