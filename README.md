@@ -1,18 +1,15 @@
-<!-- 1. ЧІТКИЙ ЗЕЛЕНИЙ ASCII-БАНЕР СЛАНТ (DIFF METHOD) -->
+<!-- 1. ASCII-БАНЕР СЛАНТ (LINUX TERMINAL STYLE) -->
 <div align="center">
+<pre>
+    ____ _   ____  _   _   ___    ____  I _____ __  __
+   /  _// | / / / / / / | / / \  / __ \/ /_  __/\ \/ /
+  / / / /| |/ / /_/ / /  |/ / _ \/ /_/ / / / /    \  / 
+_/ /_/ /_|  /____/_/ /|  / ___ / _, _/_/  / /     / /  
+/___/___/|_/____/___/_/ |_/_/ |_/_/ |_/_/  /_/     /_/   
+</pre>
 
-```diff
-     ____ _   ____  _   _   ___    ____  I _____ __  __
-    /  _// | / / / / / / | / / \  / __ \/ /_  __/\ \/ /
-   / / / /| |/ / /_/ / /  |/ / _ \/ /_/ / / / /    \  /
- _/ /_/ /_|  /____/_/ /|  / ___ / _, _/_/  / /     / /
- /___/___/|_/____/___/_/ |_/_/ |_/_/ |_/_/  /_/     /_/
-```
-
-  <!-- Швидкий анімований статус (Typewriter effect) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=500&color=00FF66&center=true&vCenter=true&width=500&lines=Analytics+Engineer;Data+Analyst+%26+Automation+Specialist;Python+(Polars)+%26+SQL;End-to-End+Data+Pipelines" alt="Typing SVG" />
-  </a>
+<!-- Анімований статус (Typewriter effect) -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Analytics+Engineer;Data+Analyst+%26+Automation+Specialist;Python+(Polars)+%26+SQL;End-to-End+Data+Pipelines" alt="Typing SVG" /></a>
 </div>
 
 ---
