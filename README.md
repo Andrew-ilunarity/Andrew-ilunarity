@@ -11,7 +11,6 @@ _/ /_/ /_|  /____/_/ /|  / ___ / _, _/_/  / /     / /
 <!-- Швидкий анімований статус зеленого кольору (Typewriter effect) -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=500&color=00FF66&center=true&vCenter=true&width=500&lines=Analytics+Engineer;Data+Analyst+%26+Automation+Specialist;Python+(Polars)+%26+SQL;End-to-End+Data+Pipelines" alt="Typing SVG" /></a>
 </div>
----
 
 ### 👨‍💻 About Me
 
