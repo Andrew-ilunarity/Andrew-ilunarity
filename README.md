@@ -1,20 +1,12 @@
-<!-- 1. ДИНАМІЧНИЙ ЗЕЛЕНИЙ ASCII-БАНЕР (TERMINAL ANIMATION) -->
+<!-- 1. АНІМОВАНИЙ ЗЕЛЕНИЙ ASCII-БАНЕР (ЧЕРЕЗ SVG) -->
 <div align="center">
-  <div style="background: transparent; font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 13px; color: #00FF66; line-height: 1.25; letter-spacing: 2px; text-align: center; white-space: pre; overflow-x: auto; padding: 10px 0;">
-    <div style="opacity: 0; animation: fadeIn 0.4s forwards; animation-delay: 0.1s;">    ____ _   ____  _   _   ___    ____  I _____ __  __</div>
-    <div style="opacity: 0; animation: fadeIn 0.4s forwards; animation-delay: 0.25s;">   /  _// | / / / / / / | / / \  / __ \/ /_  __/\ \/ /</div>
-    <div style="opacity: 0; animation: fadeIn 0.4s forwards; animation-delay: 0.4s;">  / / / /| |/ / /_/ / /  |/ / _ \/ /_/ / / / /    \  /</div>
-    <div style="opacity: 0; animation: fadeIn 0.4s forwards; animation-delay: 0.55s;">_/ /_/ /_|  /____/_/ /|  / ___ / _, _/_/  / /     / / </div>
-    <div style="opacity: 0; animation: fadeIn 0.4s forwards; animation-delay: 0.7s;">/___/___/|_/____/___/_/ |_/_/ |_/_/ |_/_/  /_/     /_/  </div>
-  </div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=14&pause=1000&color=00FF66&center=true&vCenter=true&width=650&height=110&lines=%20%20%20%20____%20_%20%20%20____%20%20_%20%20%20_%20%20%20___%20%20%20%20____%20%20I%20_____%20__%20%20__%0A%20%20%20%2F%20%20_%2F%2F%20%7C%20%2F%20%2F%20%2F%20%2F%20%2F%20%2F%20%7C%20%2F%20%2F%20%5C%20%20%2F%20__%20%5C%2F%20%2F_%20%20__%2F%5C%20%5C%2F%20%2F%0A%20%20%2F%20%2F%20%2F%20%2F%7C%20%7C%2F%20%2F%20%2F_%2F%20%2F%20%2F%20%20%7C%2F%20%2F%20_%20%5C%2F%20%2F_%2F%20%2F%20%2F%20%2F%20%2F%20%20%20%5C%20%20%2F%20%0A_%2F%20%2F_%2F%20%2F_%7C%20%20%2F____%2F_%2F%20%2F%7C%20%20%2F%20___%20%2F%20_%2C%20_%2F_%2F%20%20%2F%20%2F%20%20%20%20%2F%20%2F%20%20%0A%2F___%2F___%2F%7C_%2F____%2F___%2F_%2F%20%7C_%2F_%2F%20%20%7C_%2F_%2F%20%7C_%2F_%2F%20%20%2F_%2F%20%20%20%20%2F_%2F%20%20" alt="ILUNARITY ASCII" />
+  </a>
 
-  <style>
-    @keyframes fadeIn {
-      to { opacity: 1; }
-    }
-  </style>
+  <br />
 
-  <!-- Швидкий анімований статус (Typewriter effect) -->
+  <!-- Другий анімований рядок з ролями -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=500&color=00FF66&center=true&vCenter=true&width=500&lines=Analytics+Engineer;Data+Analyst+%26+Automation+Specialist;Python+(Polars)+%26+SQL;End-to-End+Data+Pipelines" alt="Typing SVG" />
   </a>
